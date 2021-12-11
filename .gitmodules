@@ -1,0 +1,6 @@
+[submodule "ML-MathFoundation"]
+	path = ML-MathFoundation
+	url = git@github.com:GouthamShiv/ML-MathFoundation.git
+[submodule "ML-foundations"]
+	path = ML-foundations
+	url = https://github.com/jonkrohn/ML-foundations.git
